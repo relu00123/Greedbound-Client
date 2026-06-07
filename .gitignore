@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+
+# SVN
+.svn/
+*.svnprops
+
+# Rider / JetBrains
+.idea/
+
+# VSCode
+.vscode/
