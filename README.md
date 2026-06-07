@@ -9,19 +9,27 @@
 
 ---
 
-## SVN 개발 이력
+## 개발 담당 안내 
+이름 (SVN Author / Github Profile Link) 순으로 명시되어 있습니다. 
 
-### SVN Log #1
+강현구 (hg412/ ) :
 
-![SVN Log 01](Docs/SVN_Log_01.png)
+김관현 (kwan / ) :
 
-### SVN Log #2
-
-![SVN Log 02](Docs/SVN_Log_02.png)
-
-### SVN Log #3
-
-![SVN Log 03](Docs/SVN_Log_03.png)
+장건희 (relu / ) :
 
 ---
 
+
+## SVN 개발 로그
+![SVN Log 01](Docs/log1.png)
+![SVN Log 02](Docs/log2.png)
+![SVN Log 03](Docs/log3.png)
+![SVN Log 04](Docs/log4.png)
+![SVN Log 05](Docs/log5.png)
+![SVN Log 06](Docs/log6.png)
+![SVN Log 07](Docs/log7.png)
+![SVN Log 08](Docs/log8.png)
+
+
+---
