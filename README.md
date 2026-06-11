@@ -9,14 +9,13 @@
 
 ---
 
-## 개발 담당 안내 
-이름 (SVN Author / Github Profile Link) 순으로 명시되어 있습니다. 
+## 개발 담당 안내
 
-강현구 (hg412/ ) :
-
-김관현 (kwan / ) :
-
-장건희 (relu / ) :
+| 이름 | SVN Author | GitHub | 담당 업무 |
+|------|------------|---------|-----------|
+| 강현구 | hg412 | https://github.com/hyulgoo | GAS 시스템 이식, 캐릭터 전투 구현 |
+| 김관현 | kwan | https://github.com/l980l | 캐릭터 애니메이션, 이동, 스킬 구현 |
+| 장건희 | relu | https://github.com/relu00123 | 로비 시스템 개발 및 로비 UI 구현 |
 
 ---
 
